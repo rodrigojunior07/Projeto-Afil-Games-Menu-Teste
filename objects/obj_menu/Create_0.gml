@@ -117,7 +117,7 @@ function change_menu(_menu) {
 
 sound_menu = sm_menu;
 
-volume = 0.2;
+volume = 0.4;
 
 menu_sample_text = [];
 

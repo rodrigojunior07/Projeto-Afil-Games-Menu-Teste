@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "sm_menu.mp3",
   "type": 0,
-  "volume": 0.2,
+  "volume": 0.4,
 }
